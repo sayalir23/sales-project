@@ -1,6 +1,5 @@
 # sales-project
-this is my first Basic SQL project
-# Sales Data Analysis using SQL
+Sales Data Analysis using SQL
 
 ## Objective
 To analyze sales data and find revenue insights, top customers, and product performance.
